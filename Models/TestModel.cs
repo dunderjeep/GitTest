@@ -16,5 +16,10 @@ namespace GitTest.Models
             return View();
         }
 
+        public ActionResult Index2()
+        {
+            return View();
+        }
+
     }
 }
